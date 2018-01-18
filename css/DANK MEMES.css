@@ -13,6 +13,7 @@
 .smolboi{font-size:15px}
 .midboi{font-size:20px}
 .signature{width:200px; text-align:left}
+#logo{height:100px}
 
 /*spin-hover*/
 .fidgetspinner:hover{animation: fa-spin 2s infinite linear;}
